@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e4842c05-9113-4fa1-995c-c35a7712e131" name="Zone" url="https://pangalingid.tak17sillart.itmajakas.ee">
+        <fileTransfer rootFolder="/pangalingid" host="tak17sillart.itmajakas.ee" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
